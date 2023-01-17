@@ -1,3 +1,3 @@
-# My Next + StyledComponents + TS + MongoDB + Prettier Setup a
+# My Next + StyledComponents + TS + MongoDB + Prettier Setup
 
 ## template for future projects with mongoDB and StyledComponents
